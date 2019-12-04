@@ -18,9 +18,11 @@
         - AppEngine
         - Compute Engine
         - Containers
-  - ### Logging & Monitoring
+'
+- ### Logging & Monitoring
         -  Stackdriver
-  - ### Security & Networking
+ 
+ - ### Security & Networking
         - API Keys
         - Load Balancing
 
@@ -28,13 +30,13 @@
 
 
 ## Things to Know About
- 	 - Hadoop
-   - Spark
-   - MapReduce
-   - Hive
-   - HBase
-   - Pig
-   - Indexing & Hashing
+ 	  - Hadoop
+    - Spark
+    - MapReduce
+    - Hive
+    - HBase
+    - Pig
+    - Indexing & Hashing
 
 
 
