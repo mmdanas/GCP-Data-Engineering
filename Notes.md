@@ -30,7 +30,7 @@
 
 
 ## Things to Know About
- 	  - Hadoop
+ 	 - Hadoop
     - Spark
     - MapReduce
     - Hive
