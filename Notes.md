@@ -4,7 +4,39 @@
  - [ ] Data Flow
  - [ ] Pub/sub
 ## Machine Learning
+ - [ ] TesnorFlow
+ - [ ] Cloud ML
+ - [ ] ML Concepts
 ## Storage Technologies
+ - [ ] Cloud storage
+ - [ ] Cloud SQL
+ - [ ] Big Table
+ - [ ] Datastore
+ 
+##  Other Topics
+ - ### Compute Choices
+        - AppEngine
+        - Compute Engine
+        - Containers
+  - ### Logging & Monitoring
+        -  Stackdriver
+  - ### Security & Networking
+        - API Keys
+        - Load Balancing
+
+
+
+
+## Things to Know About
+ 	 - Hadoop
+   - Spark
+   - MapReduce
+   - Hive
+   - HBase
+   - Pig
+   - Indexing & Hashing
+
+
 
 
 
@@ -12,15 +44,19 @@
 https://www.youtube.com/watch?v=Jp-qJFF9jww&list=PLIivdWyY5sqLq-eM4W2bIgbrpAsP5aLtZ
 
 Follow the below blog which has some more links to different blogs and resources.
+
+
 https://deploy.live/blog/google-cloud-certified-professional-data-engineer/
 
 Linux Academy Cheat Sheet:
 https://linuxacademy.com/guide/31410-google-data-engineering-cheatsheet-part-1/
 
 The below linkedin Write up helps.
+
 https://www.linkedin.com/pulse/google-cloud-certified-professional-data-engineer-writeup-rix/
 
 Study Materials :
+
 https://github.com/Leverege/gcp-data-engineer-exam
 
 Medium Post :
