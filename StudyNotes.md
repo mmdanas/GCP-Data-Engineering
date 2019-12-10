@@ -20,3 +20,11 @@
     In Vertical scaling you increase the number of machines. 
     It means you increase vertically by providing more machines on top of the existing ones.
             
+
+
+### Availablity
+ Global Region - BigQuery, Datastore, Cloud storage
+ 
+ Regional - AppEngine Instances
+ 
+ Zonal - VM instances, Disks
