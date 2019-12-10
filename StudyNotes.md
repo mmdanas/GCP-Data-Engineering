@@ -31,4 +31,7 @@
 
  **Disks should be in the same region as the VM's location
  
- 
+ Ways to Use :
+  - GCP Console
+  - CLI
+  - Client Libraries (API Calls)
