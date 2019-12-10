@@ -28,3 +28,7 @@
  Regional - AppEngine Instances
  
  Zonal - VM instances, Disks
+
+ **Disks should be in the same region as the VM's location
+ 
+ 
