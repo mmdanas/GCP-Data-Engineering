@@ -20,5 +20,6 @@ To enable Legacysql,do the following:
   
   
   ### Syntax
-   bq - to use in commandline to start bigquert
+   bq - to use in commandline to start bigquery
+   
    'bq query' - to start querying
