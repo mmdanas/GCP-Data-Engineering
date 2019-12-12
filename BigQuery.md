@@ -23,3 +23,7 @@ To enable Legacysql,do the following:
     -  bq - to use in commandline to start bigquery
    
     - 'bq query' - to start querying
+    
+    - 'bq ls'  - to list the datasets available
+    
+    - 'bq mk' - to create your own dataset
