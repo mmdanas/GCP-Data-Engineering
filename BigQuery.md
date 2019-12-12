@@ -5,10 +5,18 @@ Ways to access BigQuery :
   - Console
   - API Call
   
-## IAM Priveleges :
+## IAM Priveleges 
   - bigquery.user
   - bigquery.jobUser
   - bigquery.admin
+
+
+## Quota
+ - 1000 load jobs per table per day
+ - 100,000 load jobs per project per day
+
+  
+  
   
 ### NOTE :
 
